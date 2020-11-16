@@ -1,0 +1,13 @@
+C:\Users\Gently\source\repos\C-_Programms\BasicServer-Client_test\BasicServer-Client_test\obj\Debug\netcoreapp3.1\BasicServer-Client_test.csprojAssemblyReference.cache
+C:\Users\Gently\source\repos\C-_Programms\BasicServer-Client_test\BasicServer-Client_test\obj\Debug\netcoreapp3.1\BasicServer-Client_test.AssemblyInfoInputs.cache
+C:\Users\Gently\source\repos\C-_Programms\BasicServer-Client_test\BasicServer-Client_test\obj\Debug\netcoreapp3.1\BasicServer-Client_test.AssemblyInfo.cs
+C:\Users\Gently\source\repos\C-_Programms\BasicServer-Client_test\BasicServer-Client_test\obj\Debug\netcoreapp3.1\BasicServer-Client_test.csproj.CoreCompileInputs.cache
+C:\Users\Gently\source\repos\C-_Programms\BasicServer-Client_test\BasicServer-Client_test\bin\Debug\netcoreapp3.1\BasicServer-Client_test.exe
+C:\Users\Gently\source\repos\C-_Programms\BasicServer-Client_test\BasicServer-Client_test\bin\Debug\netcoreapp3.1\BasicServer-Client_test.deps.json
+C:\Users\Gently\source\repos\C-_Programms\BasicServer-Client_test\BasicServer-Client_test\bin\Debug\netcoreapp3.1\BasicServer-Client_test.runtimeconfig.json
+C:\Users\Gently\source\repos\C-_Programms\BasicServer-Client_test\BasicServer-Client_test\bin\Debug\netcoreapp3.1\BasicServer-Client_test.runtimeconfig.dev.json
+C:\Users\Gently\source\repos\C-_Programms\BasicServer-Client_test\BasicServer-Client_test\bin\Debug\netcoreapp3.1\BasicServer-Client_test.dll
+C:\Users\Gently\source\repos\C-_Programms\BasicServer-Client_test\BasicServer-Client_test\bin\Debug\netcoreapp3.1\BasicServer-Client_test.pdb
+C:\Users\Gently\source\repos\C-_Programms\BasicServer-Client_test\BasicServer-Client_test\obj\Debug\netcoreapp3.1\BasicServer-Client_test.dll
+C:\Users\Gently\source\repos\C-_Programms\BasicServer-Client_test\BasicServer-Client_test\obj\Debug\netcoreapp3.1\BasicServer-Client_test.pdb
+C:\Users\Gently\source\repos\C-_Programms\BasicServer-Client_test\BasicServer-Client_test\obj\Debug\netcoreapp3.1\BasicServer-Client_test.genruntimeconfig.cache
