@@ -1,0 +1,13 @@
+C:\Users\Gently\source\repos\C-_Programms\ConsoleCW\ConsoleCW\bin\Debug\netcoreapp3.1\ConsoleCW.exe
+C:\Users\Gently\source\repos\C-_Programms\ConsoleCW\ConsoleCW\bin\Debug\netcoreapp3.1\ConsoleCW.deps.json
+C:\Users\Gently\source\repos\C-_Programms\ConsoleCW\ConsoleCW\bin\Debug\netcoreapp3.1\ConsoleCW.runtimeconfig.json
+C:\Users\Gently\source\repos\C-_Programms\ConsoleCW\ConsoleCW\bin\Debug\netcoreapp3.1\ConsoleCW.runtimeconfig.dev.json
+C:\Users\Gently\source\repos\C-_Programms\ConsoleCW\ConsoleCW\bin\Debug\netcoreapp3.1\ConsoleCW.dll
+C:\Users\Gently\source\repos\C-_Programms\ConsoleCW\ConsoleCW\bin\Debug\netcoreapp3.1\ConsoleCW.pdb
+C:\Users\Gently\source\repos\C-_Programms\ConsoleCW\ConsoleCW\obj\Debug\netcoreapp3.1\ConsoleCW.csprojAssemblyReference.cache
+C:\Users\Gently\source\repos\C-_Programms\ConsoleCW\ConsoleCW\obj\Debug\netcoreapp3.1\ConsoleCW.AssemblyInfoInputs.cache
+C:\Users\Gently\source\repos\C-_Programms\ConsoleCW\ConsoleCW\obj\Debug\netcoreapp3.1\ConsoleCW.AssemblyInfo.cs
+C:\Users\Gently\source\repos\C-_Programms\ConsoleCW\ConsoleCW\obj\Debug\netcoreapp3.1\ConsoleCW.csproj.CoreCompileInputs.cache
+C:\Users\Gently\source\repos\C-_Programms\ConsoleCW\ConsoleCW\obj\Debug\netcoreapp3.1\ConsoleCW.dll
+C:\Users\Gently\source\repos\C-_Programms\ConsoleCW\ConsoleCW\obj\Debug\netcoreapp3.1\ConsoleCW.pdb
+C:\Users\Gently\source\repos\C-_Programms\ConsoleCW\ConsoleCW\obj\Debug\netcoreapp3.1\ConsoleCW.genruntimeconfig.cache
