@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gently\\source\\repos\\C-_Programms\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\Gently\\source\\repos\\C-_Programms\\ConsoleCW\\ConsoleCW\\ConsoleCW.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gently\\source\\repos\\C-_Programms\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\Gently\\source\\repos\\C-_Programms\\ConsoleCW\\ConsoleCW\\ConsoleCW.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gently\\source\\repos\\C-_Programms\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
-        "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\Gently\\source\\repos\\C-_Programms\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\Gently\\source\\repos\\C-_Programms\\ConsoleCW\\ConsoleCW\\ConsoleCW.csproj",
+        "projectName": "ConsoleCW",
+        "projectPath": "C:\\Users\\Gently\\source\\repos\\C-_Programms\\ConsoleCW\\ConsoleCW\\ConsoleCW.csproj",
         "packagesPath": "C:\\Users\\Gently\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gently\\source\\repos\\C-_Programms\\HelloWorld\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\Gently\\source\\repos\\C-_Programms\\ConsoleCW\\ConsoleCW\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gently\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",

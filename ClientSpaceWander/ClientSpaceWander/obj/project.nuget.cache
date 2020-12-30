@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vJsxjjhKRVU33iluB0AZPzHnRl0aXpEcf+JGpYPsTpffaJAOpP0Joyg3e0iYyf7uCQsC5fKWrZIDZN1oJPkUlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gently\\source\\repos\\C-_Programms\\ClientSpaceWander\\ClientSpaceWander\\ClientSpaceWander.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gently\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

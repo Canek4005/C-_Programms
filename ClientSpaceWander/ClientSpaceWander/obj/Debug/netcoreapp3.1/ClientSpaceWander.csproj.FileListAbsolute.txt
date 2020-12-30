@@ -1,0 +1,15 @@
+C:\Users\Gently\source\repos\C-_Programms\ClientSpaceWander\ClientSpaceWander\bin\Debug\netcoreapp3.1\ClientSpaceWander.exe
+C:\Users\Gently\source\repos\C-_Programms\ClientSpaceWander\ClientSpaceWander\bin\Debug\netcoreapp3.1\ClientSpaceWander.deps.json
+C:\Users\Gently\source\repos\C-_Programms\ClientSpaceWander\ClientSpaceWander\bin\Debug\netcoreapp3.1\ClientSpaceWander.runtimeconfig.json
+C:\Users\Gently\source\repos\C-_Programms\ClientSpaceWander\ClientSpaceWander\bin\Debug\netcoreapp3.1\ClientSpaceWander.runtimeconfig.dev.json
+C:\Users\Gently\source\repos\C-_Programms\ClientSpaceWander\ClientSpaceWander\bin\Debug\netcoreapp3.1\ClientSpaceWander.dll
+C:\Users\Gently\source\repos\C-_Programms\ClientSpaceWander\ClientSpaceWander\bin\Debug\netcoreapp3.1\ClientSpaceWander.pdb
+C:\Users\Gently\source\repos\C-_Programms\ClientSpaceWander\ClientSpaceWander\obj\Debug\netcoreapp3.1\ClientSpaceWander.csprojAssemblyReference.cache
+C:\Users\Gently\source\repos\C-_Programms\ClientSpaceWander\ClientSpaceWander\obj\Debug\netcoreapp3.1\ClientSpaceWander.AssemblyInfoInputs.cache
+C:\Users\Gently\source\repos\C-_Programms\ClientSpaceWander\ClientSpaceWander\obj\Debug\netcoreapp3.1\ClientSpaceWander.AssemblyInfo.cs
+C:\Users\Gently\source\repos\C-_Programms\ClientSpaceWander\ClientSpaceWander\obj\Debug\netcoreapp3.1\ClientSpaceWander.csproj.CoreCompileInputs.cache
+C:\Users\Gently\source\repos\C-_Programms\ClientSpaceWander\ClientSpaceWander\obj\Debug\netcoreapp3.1\ClientSpaceWander.dll
+C:\Users\Gently\source\repos\C-_Programms\ClientSpaceWander\ClientSpaceWander\obj\Debug\netcoreapp3.1\ClientSpaceWander.pdb
+C:\Users\Gently\source\repos\C-_Programms\ClientSpaceWander\ClientSpaceWander\obj\Debug\netcoreapp3.1\ClientSpaceWander.genruntimeconfig.cache
+C:\Users\Gently\source\repos\C-_Programms\ClientSpaceWander\ClientSpaceWander\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Gently\source\repos\C-_Programms\ClientSpaceWander\ClientSpaceWander\obj\Debug\netcoreapp3.1\ClientSpaceWander.csproj.CopyComplete
