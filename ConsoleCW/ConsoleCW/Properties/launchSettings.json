@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleCW": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\Gently\\source\\repos\\CodeWarsTest\\UniqueInOrder.cs"
+    }
+  }
+}

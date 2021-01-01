@@ -1,0 +1,13 @@
+C:\Users\Gently\source\repos\C-_Programms\Mumbling\Mumbling\bin\Debug\netcoreapp3.1\Mumbling.exe
+C:\Users\Gently\source\repos\C-_Programms\Mumbling\Mumbling\bin\Debug\netcoreapp3.1\Mumbling.deps.json
+C:\Users\Gently\source\repos\C-_Programms\Mumbling\Mumbling\bin\Debug\netcoreapp3.1\Mumbling.runtimeconfig.json
+C:\Users\Gently\source\repos\C-_Programms\Mumbling\Mumbling\bin\Debug\netcoreapp3.1\Mumbling.runtimeconfig.dev.json
+C:\Users\Gently\source\repos\C-_Programms\Mumbling\Mumbling\bin\Debug\netcoreapp3.1\Mumbling.dll
+C:\Users\Gently\source\repos\C-_Programms\Mumbling\Mumbling\bin\Debug\netcoreapp3.1\Mumbling.pdb
+C:\Users\Gently\source\repos\C-_Programms\Mumbling\Mumbling\obj\Debug\netcoreapp3.1\Mumbling.csprojAssemblyReference.cache
+C:\Users\Gently\source\repos\C-_Programms\Mumbling\Mumbling\obj\Debug\netcoreapp3.1\Mumbling.AssemblyInfoInputs.cache
+C:\Users\Gently\source\repos\C-_Programms\Mumbling\Mumbling\obj\Debug\netcoreapp3.1\Mumbling.AssemblyInfo.cs
+C:\Users\Gently\source\repos\C-_Programms\Mumbling\Mumbling\obj\Debug\netcoreapp3.1\Mumbling.csproj.CoreCompileInputs.cache
+C:\Users\Gently\source\repos\C-_Programms\Mumbling\Mumbling\obj\Debug\netcoreapp3.1\Mumbling.dll
+C:\Users\Gently\source\repos\C-_Programms\Mumbling\Mumbling\obj\Debug\netcoreapp3.1\Mumbling.pdb
+C:\Users\Gently\source\repos\C-_Programms\Mumbling\Mumbling\obj\Debug\netcoreapp3.1\Mumbling.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Gently\source\repos\C-_Programms\UniqueInOrder\UniqueInOrder\bin\Debug\netcoreapp3.1\UniqueInOrder.exe
+C:\Users\Gently\source\repos\C-_Programms\UniqueInOrder\UniqueInOrder\bin\Debug\netcoreapp3.1\UniqueInOrder.deps.json
+C:\Users\Gently\source\repos\C-_Programms\UniqueInOrder\UniqueInOrder\bin\Debug\netcoreapp3.1\UniqueInOrder.runtimeconfig.json
+C:\Users\Gently\source\repos\C-_Programms\UniqueInOrder\UniqueInOrder\bin\Debug\netcoreapp3.1\UniqueInOrder.runtimeconfig.dev.json
+C:\Users\Gently\source\repos\C-_Programms\UniqueInOrder\UniqueInOrder\bin\Debug\netcoreapp3.1\UniqueInOrder.dll
+C:\Users\Gently\source\repos\C-_Programms\UniqueInOrder\UniqueInOrder\bin\Debug\netcoreapp3.1\UniqueInOrder.pdb
+C:\Users\Gently\source\repos\C-_Programms\UniqueInOrder\UniqueInOrder\obj\Debug\netcoreapp3.1\UniqueInOrder.csprojAssemblyReference.cache
+C:\Users\Gently\source\repos\C-_Programms\UniqueInOrder\UniqueInOrder\obj\Debug\netcoreapp3.1\UniqueInOrder.AssemblyInfoInputs.cache
+C:\Users\Gently\source\repos\C-_Programms\UniqueInOrder\UniqueInOrder\obj\Debug\netcoreapp3.1\UniqueInOrder.AssemblyInfo.cs
+C:\Users\Gently\source\repos\C-_Programms\UniqueInOrder\UniqueInOrder\obj\Debug\netcoreapp3.1\UniqueInOrder.csproj.CoreCompileInputs.cache
+C:\Users\Gently\source\repos\C-_Programms\UniqueInOrder\UniqueInOrder\obj\Debug\netcoreapp3.1\UniqueInOrder.dll
+C:\Users\Gently\source\repos\C-_Programms\UniqueInOrder\UniqueInOrder\obj\Debug\netcoreapp3.1\UniqueInOrder.pdb
+C:\Users\Gently\source\repos\C-_Programms\UniqueInOrder\UniqueInOrder\obj\Debug\netcoreapp3.1\UniqueInOrder.genruntimeconfig.cache
