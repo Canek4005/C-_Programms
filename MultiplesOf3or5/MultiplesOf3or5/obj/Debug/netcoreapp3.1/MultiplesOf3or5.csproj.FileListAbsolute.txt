@@ -1,0 +1,13 @@
+C:\Users\Gently\source\repos\C-_Programms\MultiplesOf3or5\MultiplesOf3or5\bin\Debug\netcoreapp3.1\MultiplesOf3or5.exe
+C:\Users\Gently\source\repos\C-_Programms\MultiplesOf3or5\MultiplesOf3or5\bin\Debug\netcoreapp3.1\MultiplesOf3or5.deps.json
+C:\Users\Gently\source\repos\C-_Programms\MultiplesOf3or5\MultiplesOf3or5\bin\Debug\netcoreapp3.1\MultiplesOf3or5.runtimeconfig.json
+C:\Users\Gently\source\repos\C-_Programms\MultiplesOf3or5\MultiplesOf3or5\bin\Debug\netcoreapp3.1\MultiplesOf3or5.runtimeconfig.dev.json
+C:\Users\Gently\source\repos\C-_Programms\MultiplesOf3or5\MultiplesOf3or5\bin\Debug\netcoreapp3.1\MultiplesOf3or5.dll
+C:\Users\Gently\source\repos\C-_Programms\MultiplesOf3or5\MultiplesOf3or5\bin\Debug\netcoreapp3.1\MultiplesOf3or5.pdb
+C:\Users\Gently\source\repos\C-_Programms\MultiplesOf3or5\MultiplesOf3or5\obj\Debug\netcoreapp3.1\MultiplesOf3or5.csprojAssemblyReference.cache
+C:\Users\Gently\source\repos\C-_Programms\MultiplesOf3or5\MultiplesOf3or5\obj\Debug\netcoreapp3.1\MultiplesOf3or5.AssemblyInfoInputs.cache
+C:\Users\Gently\source\repos\C-_Programms\MultiplesOf3or5\MultiplesOf3or5\obj\Debug\netcoreapp3.1\MultiplesOf3or5.AssemblyInfo.cs
+C:\Users\Gently\source\repos\C-_Programms\MultiplesOf3or5\MultiplesOf3or5\obj\Debug\netcoreapp3.1\MultiplesOf3or5.csproj.CoreCompileInputs.cache
+C:\Users\Gently\source\repos\C-_Programms\MultiplesOf3or5\MultiplesOf3or5\obj\Debug\netcoreapp3.1\MultiplesOf3or5.dll
+C:\Users\Gently\source\repos\C-_Programms\MultiplesOf3or5\MultiplesOf3or5\obj\Debug\netcoreapp3.1\MultiplesOf3or5.pdb
+C:\Users\Gently\source\repos\C-_Programms\MultiplesOf3or5\MultiplesOf3or5\obj\Debug\netcoreapp3.1\MultiplesOf3or5.genruntimeconfig.cache
