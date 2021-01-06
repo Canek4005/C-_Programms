@@ -1,0 +1,13 @@
+C:\Users\Gently\source\repos\C-_Programms\Meeting\Meeting\bin\Debug\netcoreapp3.1\Meeting.exe
+C:\Users\Gently\source\repos\C-_Programms\Meeting\Meeting\bin\Debug\netcoreapp3.1\Meeting.deps.json
+C:\Users\Gently\source\repos\C-_Programms\Meeting\Meeting\bin\Debug\netcoreapp3.1\Meeting.runtimeconfig.json
+C:\Users\Gently\source\repos\C-_Programms\Meeting\Meeting\bin\Debug\netcoreapp3.1\Meeting.runtimeconfig.dev.json
+C:\Users\Gently\source\repos\C-_Programms\Meeting\Meeting\bin\Debug\netcoreapp3.1\Meeting.dll
+C:\Users\Gently\source\repos\C-_Programms\Meeting\Meeting\bin\Debug\netcoreapp3.1\Meeting.pdb
+C:\Users\Gently\source\repos\C-_Programms\Meeting\Meeting\obj\Debug\netcoreapp3.1\Meeting.csprojAssemblyReference.cache
+C:\Users\Gently\source\repos\C-_Programms\Meeting\Meeting\obj\Debug\netcoreapp3.1\Meeting.AssemblyInfoInputs.cache
+C:\Users\Gently\source\repos\C-_Programms\Meeting\Meeting\obj\Debug\netcoreapp3.1\Meeting.AssemblyInfo.cs
+C:\Users\Gently\source\repos\C-_Programms\Meeting\Meeting\obj\Debug\netcoreapp3.1\Meeting.csproj.CoreCompileInputs.cache
+C:\Users\Gently\source\repos\C-_Programms\Meeting\Meeting\obj\Debug\netcoreapp3.1\Meeting.dll
+C:\Users\Gently\source\repos\C-_Programms\Meeting\Meeting\obj\Debug\netcoreapp3.1\Meeting.pdb
+C:\Users\Gently\source\repos\C-_Programms\Meeting\Meeting\obj\Debug\netcoreapp3.1\Meeting.genruntimeconfig.cache
