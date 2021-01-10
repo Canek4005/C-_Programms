@@ -1,0 +1,13 @@
+C:\Users\Gently\source\repos\C-_Programms\MovingZerosToTheEnd\MovingZerosToTheEnd\bin\Debug\netcoreapp3.1\MovingZerosToTheEnd.exe
+C:\Users\Gently\source\repos\C-_Programms\MovingZerosToTheEnd\MovingZerosToTheEnd\bin\Debug\netcoreapp3.1\MovingZerosToTheEnd.deps.json
+C:\Users\Gently\source\repos\C-_Programms\MovingZerosToTheEnd\MovingZerosToTheEnd\bin\Debug\netcoreapp3.1\MovingZerosToTheEnd.runtimeconfig.json
+C:\Users\Gently\source\repos\C-_Programms\MovingZerosToTheEnd\MovingZerosToTheEnd\bin\Debug\netcoreapp3.1\MovingZerosToTheEnd.runtimeconfig.dev.json
+C:\Users\Gently\source\repos\C-_Programms\MovingZerosToTheEnd\MovingZerosToTheEnd\bin\Debug\netcoreapp3.1\MovingZerosToTheEnd.dll
+C:\Users\Gently\source\repos\C-_Programms\MovingZerosToTheEnd\MovingZerosToTheEnd\bin\Debug\netcoreapp3.1\MovingZerosToTheEnd.pdb
+C:\Users\Gently\source\repos\C-_Programms\MovingZerosToTheEnd\MovingZerosToTheEnd\obj\Debug\netcoreapp3.1\MovingZerosToTheEnd.csprojAssemblyReference.cache
+C:\Users\Gently\source\repos\C-_Programms\MovingZerosToTheEnd\MovingZerosToTheEnd\obj\Debug\netcoreapp3.1\MovingZerosToTheEnd.AssemblyInfoInputs.cache
+C:\Users\Gently\source\repos\C-_Programms\MovingZerosToTheEnd\MovingZerosToTheEnd\obj\Debug\netcoreapp3.1\MovingZerosToTheEnd.AssemblyInfo.cs
+C:\Users\Gently\source\repos\C-_Programms\MovingZerosToTheEnd\MovingZerosToTheEnd\obj\Debug\netcoreapp3.1\MovingZerosToTheEnd.csproj.CoreCompileInputs.cache
+C:\Users\Gently\source\repos\C-_Programms\MovingZerosToTheEnd\MovingZerosToTheEnd\obj\Debug\netcoreapp3.1\MovingZerosToTheEnd.dll
+C:\Users\Gently\source\repos\C-_Programms\MovingZerosToTheEnd\MovingZerosToTheEnd\obj\Debug\netcoreapp3.1\MovingZerosToTheEnd.pdb
+C:\Users\Gently\source\repos\C-_Programms\MovingZerosToTheEnd\MovingZerosToTheEnd\obj\Debug\netcoreapp3.1\MovingZerosToTheEnd.genruntimeconfig.cache

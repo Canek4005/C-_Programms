@@ -1,0 +1,13 @@
+C:\Users\Gently\source\repos\C-_Programms\TakeATenMinuteWalk\TakeATenMinuteWalk\bin\Debug\netcoreapp3.1\TakeATenMinuteWalk.exe
+C:\Users\Gently\source\repos\C-_Programms\TakeATenMinuteWalk\TakeATenMinuteWalk\bin\Debug\netcoreapp3.1\TakeATenMinuteWalk.deps.json
+C:\Users\Gently\source\repos\C-_Programms\TakeATenMinuteWalk\TakeATenMinuteWalk\bin\Debug\netcoreapp3.1\TakeATenMinuteWalk.runtimeconfig.json
+C:\Users\Gently\source\repos\C-_Programms\TakeATenMinuteWalk\TakeATenMinuteWalk\bin\Debug\netcoreapp3.1\TakeATenMinuteWalk.runtimeconfig.dev.json
+C:\Users\Gently\source\repos\C-_Programms\TakeATenMinuteWalk\TakeATenMinuteWalk\bin\Debug\netcoreapp3.1\TakeATenMinuteWalk.dll
+C:\Users\Gently\source\repos\C-_Programms\TakeATenMinuteWalk\TakeATenMinuteWalk\bin\Debug\netcoreapp3.1\TakeATenMinuteWalk.pdb
+C:\Users\Gently\source\repos\C-_Programms\TakeATenMinuteWalk\TakeATenMinuteWalk\obj\Debug\netcoreapp3.1\TakeATenMinuteWalk.csprojAssemblyReference.cache
+C:\Users\Gently\source\repos\C-_Programms\TakeATenMinuteWalk\TakeATenMinuteWalk\obj\Debug\netcoreapp3.1\TakeATenMinuteWalk.AssemblyInfoInputs.cache
+C:\Users\Gently\source\repos\C-_Programms\TakeATenMinuteWalk\TakeATenMinuteWalk\obj\Debug\netcoreapp3.1\TakeATenMinuteWalk.AssemblyInfo.cs
+C:\Users\Gently\source\repos\C-_Programms\TakeATenMinuteWalk\TakeATenMinuteWalk\obj\Debug\netcoreapp3.1\TakeATenMinuteWalk.csproj.CoreCompileInputs.cache
+C:\Users\Gently\source\repos\C-_Programms\TakeATenMinuteWalk\TakeATenMinuteWalk\obj\Debug\netcoreapp3.1\TakeATenMinuteWalk.dll
+C:\Users\Gently\source\repos\C-_Programms\TakeATenMinuteWalk\TakeATenMinuteWalk\obj\Debug\netcoreapp3.1\TakeATenMinuteWalk.pdb
+C:\Users\Gently\source\repos\C-_Programms\TakeATenMinuteWalk\TakeATenMinuteWalk\obj\Debug\netcoreapp3.1\TakeATenMinuteWalk.genruntimeconfig.cache
