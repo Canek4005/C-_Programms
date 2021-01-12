@@ -1,0 +1,15 @@
+C:\Users\Gently\source\repos\C-_Programms\Tanks_OOP\bin\Debug\Tanks_OOP.exe.config
+C:\Users\Gently\source\repos\C-_Programms\Tanks_OOP\bin\Debug\Tanks_OOP.exe
+C:\Users\Gently\source\repos\C-_Programms\Tanks_OOP\bin\Debug\Tanks_OOP.pdb
+C:\Users\Gently\source\repos\C-_Programms\Tanks_OOP\obj\Debug\Tanks_OOP.csprojAssemblyReference.cache
+C:\Users\Gently\source\repos\C-_Programms\Tanks_OOP\obj\Debug\MainWindow.g.cs
+C:\Users\Gently\source\repos\C-_Programms\Tanks_OOP\obj\Debug\App.g.cs
+C:\Users\Gently\source\repos\C-_Programms\Tanks_OOP\obj\Debug\Tanks_OOP_MarkupCompile.cache
+C:\Users\Gently\source\repos\C-_Programms\Tanks_OOP\obj\Debug\Tanks_OOP_MarkupCompile.lref
+C:\Users\Gently\source\repos\C-_Programms\Tanks_OOP\obj\Debug\MainWindow.baml
+C:\Users\Gently\source\repos\C-_Programms\Tanks_OOP\obj\Debug\Tanks_OOP.g.resources
+C:\Users\Gently\source\repos\C-_Programms\Tanks_OOP\obj\Debug\Tanks_OOP.Properties.Resources.resources
+C:\Users\Gently\source\repos\C-_Programms\Tanks_OOP\obj\Debug\Tanks_OOP.csproj.GenerateResource.cache
+C:\Users\Gently\source\repos\C-_Programms\Tanks_OOP\obj\Debug\Tanks_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Gently\source\repos\C-_Programms\Tanks_OOP\obj\Debug\Tanks_OOP.exe
+C:\Users\Gently\source\repos\C-_Programms\Tanks_OOP\obj\Debug\Tanks_OOP.pdb

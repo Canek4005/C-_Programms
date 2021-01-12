@@ -1,0 +1,13 @@
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\Vowel Count\bin\Debug\netcoreapp3.1\Vowel Count.exe
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\Vowel Count\bin\Debug\netcoreapp3.1\Vowel Count.deps.json
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\Vowel Count\bin\Debug\netcoreapp3.1\Vowel Count.runtimeconfig.json
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\Vowel Count\bin\Debug\netcoreapp3.1\Vowel Count.runtimeconfig.dev.json
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\Vowel Count\bin\Debug\netcoreapp3.1\Vowel Count.dll
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\Vowel Count\bin\Debug\netcoreapp3.1\Vowel Count.pdb
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\Vowel Count\obj\Debug\netcoreapp3.1\Vowel Count.csprojAssemblyReference.cache
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\Vowel Count\obj\Debug\netcoreapp3.1\Vowel Count.AssemblyInfoInputs.cache
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\Vowel Count\obj\Debug\netcoreapp3.1\Vowel Count.AssemblyInfo.cs
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\Vowel Count\obj\Debug\netcoreapp3.1\Vowel Count.csproj.CoreCompileInputs.cache
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\Vowel Count\obj\Debug\netcoreapp3.1\Vowel Count.dll
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\Vowel Count\obj\Debug\netcoreapp3.1\Vowel Count.pdb
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\Vowel Count\obj\Debug\netcoreapp3.1\Vowel Count.genruntimeconfig.cache
