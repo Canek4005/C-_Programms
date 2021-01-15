@@ -1,0 +1,13 @@
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\Persistent Bugger\bin\Debug\netcoreapp3.1\Persistent Bugger.exe
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\Persistent Bugger\bin\Debug\netcoreapp3.1\Persistent Bugger.deps.json
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\Persistent Bugger\bin\Debug\netcoreapp3.1\Persistent Bugger.runtimeconfig.json
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\Persistent Bugger\bin\Debug\netcoreapp3.1\Persistent Bugger.runtimeconfig.dev.json
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\Persistent Bugger\bin\Debug\netcoreapp3.1\Persistent Bugger.dll
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\Persistent Bugger\bin\Debug\netcoreapp3.1\Persistent Bugger.pdb
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\Persistent Bugger\obj\Debug\netcoreapp3.1\Persistent Bugger.csprojAssemblyReference.cache
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\Persistent Bugger\obj\Debug\netcoreapp3.1\Persistent Bugger.AssemblyInfoInputs.cache
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\Persistent Bugger\obj\Debug\netcoreapp3.1\Persistent Bugger.AssemblyInfo.cs
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\Persistent Bugger\obj\Debug\netcoreapp3.1\Persistent Bugger.csproj.CoreCompileInputs.cache
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\Persistent Bugger\obj\Debug\netcoreapp3.1\Persistent Bugger.dll
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\Persistent Bugger\obj\Debug\netcoreapp3.1\Persistent Bugger.pdb
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\Persistent Bugger\obj\Debug\netcoreapp3.1\Persistent Bugger.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.exe
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.deps.json
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.runtimeconfig.json
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.runtimeconfig.dev.json
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.dll
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.pdb
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.csprojAssemblyReference.cache
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.AssemblyInfoInputs.cache
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.AssemblyInfo.cs
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.csproj.CoreCompileInputs.cache
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.dll
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.pdb
+C:\Users\Gently\source\repos\C-_Programms\CodeWars\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.genruntimeconfig.cache

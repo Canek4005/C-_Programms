@@ -13,3 +13,10 @@ C:\Users\Gently\source\repos\C-_Programms\Tanks_OOP\obj\Debug\Tanks_OOP.csproj.G
 C:\Users\Gently\source\repos\C-_Programms\Tanks_OOP\obj\Debug\Tanks_OOP.csproj.CoreCompileInputs.cache
 C:\Users\Gently\source\repos\C-_Programms\Tanks_OOP\obj\Debug\Tanks_OOP.exe
 C:\Users\Gently\source\repos\C-_Programms\Tanks_OOP\obj\Debug\Tanks_OOP.pdb
+C:\Users\Gently\source\repos\C-_Programms\Tanks_OOP\bin\Debug\MaterialDesignColors.dll
+C:\Users\Gently\source\repos\C-_Programms\Tanks_OOP\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Gently\source\repos\C-_Programms\Tanks_OOP\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Gently\source\repos\C-_Programms\Tanks_OOP\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Gently\source\repos\C-_Programms\Tanks_OOP\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Gently\source\repos\C-_Programms\Tanks_OOP\obj\Debug\App.baml
+C:\Users\Gently\source\repos\C-_Programms\Tanks_OOP\obj\Debug\Tanks_OOP.csproj.CopyComplete
