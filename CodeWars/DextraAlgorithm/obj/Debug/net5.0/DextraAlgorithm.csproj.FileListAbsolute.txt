@@ -1,0 +1,16 @@
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DextraAlgorithm\bin\Debug\net5.0\DextraAlgorithm.exe
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DextraAlgorithm\bin\Debug\net5.0\DextraAlgorithm.deps.json
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DextraAlgorithm\bin\Debug\net5.0\DextraAlgorithm.runtimeconfig.json
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DextraAlgorithm\bin\Debug\net5.0\DextraAlgorithm.runtimeconfig.dev.json
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DextraAlgorithm\bin\Debug\net5.0\DextraAlgorithm.dll
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DextraAlgorithm\bin\Debug\net5.0\ref\DextraAlgorithm.dll
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DextraAlgorithm\bin\Debug\net5.0\DextraAlgorithm.pdb
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DextraAlgorithm\obj\Debug\net5.0\DextraAlgorithm.csprojAssemblyReference.cache
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DextraAlgorithm\obj\Debug\net5.0\DextraAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DextraAlgorithm\obj\Debug\net5.0\DextraAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DextraAlgorithm\obj\Debug\net5.0\DextraAlgorithm.AssemblyInfo.cs
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DextraAlgorithm\obj\Debug\net5.0\DextraAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DextraAlgorithm\obj\Debug\net5.0\DextraAlgorithm.dll
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DextraAlgorithm\obj\Debug\net5.0\ref\DextraAlgorithm.dll
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DextraAlgorithm\obj\Debug\net5.0\DextraAlgorithm.pdb
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DextraAlgorithm\obj\Debug\net5.0\DextraAlgorithm.genruntimeconfig.cache

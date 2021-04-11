@@ -1,0 +1,16 @@
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DextraFuelAlgorithm\bin\Debug\net5.0\DextraFuelAlgorithm.exe
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DextraFuelAlgorithm\bin\Debug\net5.0\DextraFuelAlgorithm.deps.json
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DextraFuelAlgorithm\bin\Debug\net5.0\DextraFuelAlgorithm.runtimeconfig.json
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DextraFuelAlgorithm\bin\Debug\net5.0\DextraFuelAlgorithm.runtimeconfig.dev.json
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DextraFuelAlgorithm\bin\Debug\net5.0\DextraFuelAlgorithm.dll
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DextraFuelAlgorithm\bin\Debug\net5.0\ref\DextraFuelAlgorithm.dll
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DextraFuelAlgorithm\bin\Debug\net5.0\DextraFuelAlgorithm.pdb
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DextraFuelAlgorithm\obj\Debug\net5.0\DextraFuelAlgorithm.csprojAssemblyReference.cache
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DextraFuelAlgorithm\obj\Debug\net5.0\DextraFuelAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DextraFuelAlgorithm\obj\Debug\net5.0\DextraFuelAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DextraFuelAlgorithm\obj\Debug\net5.0\DextraFuelAlgorithm.AssemblyInfo.cs
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DextraFuelAlgorithm\obj\Debug\net5.0\DextraFuelAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DextraFuelAlgorithm\obj\Debug\net5.0\DextraFuelAlgorithm.dll
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DextraFuelAlgorithm\obj\Debug\net5.0\ref\DextraFuelAlgorithm.dll
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DextraFuelAlgorithm\obj\Debug\net5.0\DextraFuelAlgorithm.pdb
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DextraFuelAlgorithm\obj\Debug\net5.0\DextraFuelAlgorithm.genruntimeconfig.cache

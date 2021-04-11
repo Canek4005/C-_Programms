@@ -1,0 +1,16 @@
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DecryptionOlimp\bin\Debug\net5.0\DecryptionOlimp.exe
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DecryptionOlimp\bin\Debug\net5.0\DecryptionOlimp.deps.json
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DecryptionOlimp\bin\Debug\net5.0\DecryptionOlimp.runtimeconfig.json
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DecryptionOlimp\bin\Debug\net5.0\DecryptionOlimp.runtimeconfig.dev.json
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DecryptionOlimp\bin\Debug\net5.0\DecryptionOlimp.dll
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DecryptionOlimp\bin\Debug\net5.0\ref\DecryptionOlimp.dll
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DecryptionOlimp\bin\Debug\net5.0\DecryptionOlimp.pdb
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DecryptionOlimp\obj\Debug\net5.0\DecryptionOlimp.csprojAssemblyReference.cache
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DecryptionOlimp\obj\Debug\net5.0\DecryptionOlimp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DecryptionOlimp\obj\Debug\net5.0\DecryptionOlimp.AssemblyInfoInputs.cache
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DecryptionOlimp\obj\Debug\net5.0\DecryptionOlimp.AssemblyInfo.cs
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DecryptionOlimp\obj\Debug\net5.0\DecryptionOlimp.csproj.CoreCompileInputs.cache
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DecryptionOlimp\obj\Debug\net5.0\DecryptionOlimp.dll
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DecryptionOlimp\obj\Debug\net5.0\ref\DecryptionOlimp.dll
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DecryptionOlimp\obj\Debug\net5.0\DecryptionOlimp.pdb
+C:\Users\Gentl\source\repos\C-_Programms\CodeWars\DecryptionOlimp\obj\Debug\net5.0\DecryptionOlimp.genruntimeconfig.cache

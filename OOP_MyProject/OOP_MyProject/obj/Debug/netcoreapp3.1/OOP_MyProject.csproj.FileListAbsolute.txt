@@ -11,3 +11,16 @@ C:\Users\Gently\source\repos\C-_Programms\OOP_MyProject\OOP_MyProject\bin\Debug\
 C:\Users\Gently\source\repos\C-_Programms\OOP_MyProject\OOP_MyProject\obj\Debug\netcoreapp3.1\OOP_MyProject.dll
 C:\Users\Gently\source\repos\C-_Programms\OOP_MyProject\OOP_MyProject\obj\Debug\netcoreapp3.1\OOP_MyProject.pdb
 C:\Users\Gently\source\repos\C-_Programms\OOP_MyProject\OOP_MyProject\obj\Debug\netcoreapp3.1\OOP_MyProject.genruntimeconfig.cache
+C:\Users\Gentl\source\repos\C-_Programms\OOP_MyProject\OOP_MyProject\bin\Debug\netcoreapp3.1\OOP_MyProject.exe
+C:\Users\Gentl\source\repos\C-_Programms\OOP_MyProject\OOP_MyProject\bin\Debug\netcoreapp3.1\OOP_MyProject.deps.json
+C:\Users\Gentl\source\repos\C-_Programms\OOP_MyProject\OOP_MyProject\bin\Debug\netcoreapp3.1\OOP_MyProject.runtimeconfig.json
+C:\Users\Gentl\source\repos\C-_Programms\OOP_MyProject\OOP_MyProject\bin\Debug\netcoreapp3.1\OOP_MyProject.runtimeconfig.dev.json
+C:\Users\Gentl\source\repos\C-_Programms\OOP_MyProject\OOP_MyProject\bin\Debug\netcoreapp3.1\OOP_MyProject.dll
+C:\Users\Gentl\source\repos\C-_Programms\OOP_MyProject\OOP_MyProject\bin\Debug\netcoreapp3.1\OOP_MyProject.pdb
+C:\Users\Gentl\source\repos\C-_Programms\OOP_MyProject\OOP_MyProject\obj\Debug\netcoreapp3.1\OOP_MyProject.csprojAssemblyReference.cache
+C:\Users\Gentl\source\repos\C-_Programms\OOP_MyProject\OOP_MyProject\obj\Debug\netcoreapp3.1\OOP_MyProject.AssemblyInfoInputs.cache
+C:\Users\Gentl\source\repos\C-_Programms\OOP_MyProject\OOP_MyProject\obj\Debug\netcoreapp3.1\OOP_MyProject.AssemblyInfo.cs
+C:\Users\Gentl\source\repos\C-_Programms\OOP_MyProject\OOP_MyProject\obj\Debug\netcoreapp3.1\OOP_MyProject.csproj.CoreCompileInputs.cache
+C:\Users\Gentl\source\repos\C-_Programms\OOP_MyProject\OOP_MyProject\obj\Debug\netcoreapp3.1\OOP_MyProject.dll
+C:\Users\Gentl\source\repos\C-_Programms\OOP_MyProject\OOP_MyProject\obj\Debug\netcoreapp3.1\OOP_MyProject.pdb
+C:\Users\Gentl\source\repos\C-_Programms\OOP_MyProject\OOP_MyProject\obj\Debug\netcoreapp3.1\OOP_MyProject.genruntimeconfig.cache
